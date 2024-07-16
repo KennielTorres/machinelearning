@@ -1,2 +1,3 @@
 .venv
 .vscode
+/potato-disease-classification/trained_models/
